@@ -16,3 +16,5 @@
     "react-icons": "^4.2.0"
   }
 }
+
+"start": "react-scripts --openssl-legacy-provider start"
