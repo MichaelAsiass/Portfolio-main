@@ -1,5 +1,5 @@
 {
-  "start": "react-scripts --openssl-legacy-provider start"
+
   "name": "portfolio_nextjs",
   "version": "0.1.0",
   "private": true,
